@@ -12,5 +12,19 @@
     "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/marvel-rivals-promotion-large.webp",
     "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/marvel-rivals-promotion-small.webp",
     "link": "https://www.bharat-bargains.com/product/marvel-rivals/"
+  },
+  {
+    "rank": 3,
+    "title": "WhatsApp Channel",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/marvel-rivals-promotion-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/marvel-rivals-promotion-small.webp",
+    "link": "https://chat.whatsapp.com/EvjfI4VzDU8EYCmcXztgSe"
+  },
+  {
+    "rank": 4,
+    "title": "Discord Channel",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/discord-banner-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/discord-banner-small.webp",
+    "link": "https://discord.gg/bharat-bargains-988127512926253087"
   }
 ]
