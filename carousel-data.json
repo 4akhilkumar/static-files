@@ -26,5 +26,12 @@
     "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/discord-banner-large.webp",
     "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/discord-banner-small.webp",
     "link": "https://discord.gg/bharat-bargains-988127512926253087"
+  },
+  {
+    "rank": 5,
+    "title": "Prime Exchange - International Clients for Currency Exchange",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/prime-exchange-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/prime-exchange-small.webp",
+    "link": "https://t.me/PrimeExch"
   }
 ]
