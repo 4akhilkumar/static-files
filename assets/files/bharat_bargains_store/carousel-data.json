@@ -1,0 +1,37 @@
+[
+  {
+    "rank": 1,
+    "title": "Delta Force (Global)",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/delta-force-promotion-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/delta-force-promotion-small.webp",
+    "link": "https://www.bharat-bargains.com/product/delta-force-global/"
+  },
+  {
+    "rank": 2,
+    "title": "Marvel Rivals",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/marvel-rivals-promotion-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/marvel-rivals-promotion-small.webp",
+    "link": "https://www.bharat-bargains.com/product/marvel-rivals/"
+  },
+  {
+    "rank": 3,
+    "title": "WhatsApp Channel",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/banner-1-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/banner-1-small.webp",
+    "link": "https://chat.whatsapp.com/EvjfI4VzDU8EYCmcXztgSe"
+  },
+  {
+    "rank": 4,
+    "title": "Discord Channel",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/discord-banner-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/discord-banner-small.webp",
+    "link": "https://discord.gg/bharat-bargains-988127512926253087"
+  },
+  {
+    "rank": 5,
+    "title": "Prime Exchange - International Clients for Currency Exchange",
+    "desktop_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/prime-exchange-large.webp",
+    "mobile_img": "https://cdn.jsdelivr.net/gh/4akhilkumar/static-files@latest/assets/images/bharat_bargains_store/banners/prime-exchange-small.webp",
+    "link": "https://t.me/PrimeExch"
+  }
+]
